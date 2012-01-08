@@ -1,4 +1,4 @@
-# Plæv comic game
+# Plæv Skeleton Jigsaw game
 
 ## How to run it locally
 
