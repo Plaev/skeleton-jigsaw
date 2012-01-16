@@ -4,3 +4,5 @@ tools/*
 !tools/update.sh
 weltmeister.html
 game.min.js
+
+Gemfile*
