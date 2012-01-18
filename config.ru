@@ -29,8 +29,7 @@ class Impact < Sinatra::Base
 
   get '/lib/weltmeister/api/glob' do
     @files = params[:glob].inject([]) do |memo, glob|
-      dir = from_impact_basedir(glob)
-      Pathname.glob(dir).each { |d| memo << d.cleanpath.to_s }
+      Pathname.glob(glob).each { |d| memo << d.cleanpath.to_s }
       memo
     end
 
