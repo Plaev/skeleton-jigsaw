@@ -3,7 +3,7 @@
         "jasmine", "spyOn", "it", "describe", "expect",
         "ig", "EntityDokuro", "EntityLava", "EntityJigsaw",
         "Level01", "Level01Resources", "SkeletonJigsaw", "EntityParticle",
-        "EntityPiece"
+        "EntityPiece", "EntityShooter", "EntityFireball"
     ],
 
     // Browser, Frameworks and Globals
