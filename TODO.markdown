@@ -13,3 +13,4 @@ Sprint 1
 * [--] Fix the lava collision to 1 or 2 px less.
 * [--] If the piece fall in lava it will respawn.
 * [--] The shooter should shoot on a line without physics and disappear when it touch another object.
+* [M-] Make a playable level
