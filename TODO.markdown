@@ -22,7 +22,7 @@ Sprint 2
 * [-P] Make the bones spawn randomly (3 of them?).
 * [-P] Make the Death animation to "explode" using the dokuro-death sprite.
 * [--] Fix jump sprites of Dokuro.
-* [-P] Fix shooter sprites when shooting.
+* [--] Fix shooter sprites when shooting.
 * [-P] Shooter flip.
 * [MP] Fireball animation.
 * [M-] Create the playble level again.
