@@ -23,7 +23,7 @@ Sprint 2
 * [-P] Make the Death animation to "explode" using the dokuro-death sprite.
 * [--] Fix jump sprites of Dokuro.
 * [--] Fix shooter sprites when shooting.
-* [-P] Shooter flip.
+* [--] Shooter flip.
 * [MP] Fireball animation.
 * [M-] Create the playble level again.
 * [M-] Create a new concept art.
