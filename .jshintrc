@@ -4,7 +4,7 @@
         "ig", "EntityDokuro", "EntityLava", "EntityJigsaw",
         "Level01", "Level01Resources", "SkeletonJigsaw", "EntityParticle",
         "EntityPiece", "EntityShooter", "EntityFireball", "EntityDokuroHead",
-        "EntityDust"
+        "EntityBones", "RandomSpawner"
     ],
 
     // Browser, Frameworks and Globals
@@ -43,7 +43,7 @@
 
 
     // Personal styling preferences.
-    "newcap"        : true,   // Require capitalization of all constructor functions e.g. `new F()`.
+    "newcap"        : false,   // Don't Require capitalization of all constructor functions e.g. `new F()`.
     "noempty"       : true,   // Prohibit use of empty blocks.
     "nonew"         : true,   // Prohibit use of constructors for side-effects.
     "nomen"         : false,   // Prohibit use of initial or trailing underbars in names.
