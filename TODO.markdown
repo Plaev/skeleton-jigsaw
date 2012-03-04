@@ -8,7 +8,7 @@ Sprint 1
 * [--] Make the shooter enemy.
 * [--] Make the fireball that will be shot by shooter enemy.
 * [--] Make the bones animation.
-* [--] Make the Dokuro death animation.
+* [--] Make Dokuro's death animation.
   * [--] Fix Dokuro's death spawning a new entity.
 * [--] Fix the lava collision to 1 or 2 px less.
 * [--] If the piece fall in lava it will respawn.
@@ -25,9 +25,9 @@ Sprint 2
 * [--] Fix shooter sprites when shooting.
 * [--] Shooter flip.
 * [M-] Fireball animation.
-* [M-] Create the playble level again.
-* [M-] Create a new concept art.
-* [M-] Create new assets based on the concept art.
+* [M-] Redesign the playable level.
+* [M-] Create concept art for the level.
+  * [M-] Create new assets based on the concept art.
 
 
 Roadmap
