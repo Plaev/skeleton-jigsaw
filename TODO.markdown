@@ -27,12 +27,23 @@ Sprint 2
 * [--] Fireball animation.
 * [--] Redesign the playable level.
 * [--] Create concept art for the level.
-  * [M-] Create new assets based on the concept art.
+
+
+Sprint 3
+--------
+
+* [M-] Create new assets based on the concept art.
+* [M-] Level studies.
+* [-P] Solve the BUG with bones and shooter.
+* [-P] Vertical shooter.
+* [-P] Try to beautify dokuro death.
+* [MP] Fireball explode animation.
+* [MP] Improve shooter animation.
+* [MP] Piece animation.
+* [MP] HUD piece counter.
 
 
 Roadmap
 -------
 
-* [MP] HUD piece counter.
-* [MP] Vertical shooter.
 * [MP] Dokuro new animation before death.
