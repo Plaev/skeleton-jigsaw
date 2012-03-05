@@ -24,9 +24,9 @@ Sprint 2
 * [--] Fix jump sprites of Dokuro.
 * [--] Fix shooter sprites when shooting.
 * [--] Shooter flip.
-* [M-] Fireball animation.
-* [M-] Redesign the playable level.
-* [M-] Create concept art for the level.
+* [--] Fireball animation.
+* [--] Redesign the playable level.
+* [--] Create concept art for the level.
   * [M-] Create new assets based on the concept art.
 
 
