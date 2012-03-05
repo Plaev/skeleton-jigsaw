@@ -34,9 +34,9 @@ Sprint 3
 
 * [M-] Create new assets based on the concept art.
 * [M-] Level studies.
-* [-P] Solve the BUG with bones and shooter.
-* [-P] Vertical shooter.
+* [--] Solve the BUG with bones and shooter.
 * [--] Try to beautify dokuro death.
+* [-P] Vertical shooter.
 * [MP] Fireball explode animation.
 * [MP] Improve shooter animation.
 * [M-] Piece animation.
