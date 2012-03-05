@@ -39,7 +39,7 @@ Sprint 3
 * [--] Try to beautify dokuro death.
 * [MP] Fireball explode animation.
 * [MP] Improve shooter animation.
-* [MP] Piece animation.
+* [M-] Piece animation.
 * [MP] HUD piece counter.
 
 
