@@ -36,7 +36,7 @@ Sprint 3
 * [M-] Level studies.
 * [-P] Solve the BUG with bones and shooter.
 * [-P] Vertical shooter.
-* [-P] Try to beautify dokuro death.
+* [--] Try to beautify dokuro death.
 * [MP] Fireball explode animation.
 * [MP] Improve shooter animation.
 * [MP] Piece animation.

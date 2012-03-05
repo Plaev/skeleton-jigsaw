@@ -4,7 +4,7 @@
         "ig", "EntityDokuro", "EntityLava", "EntityJigsaw",
         "Level01", "Level01Resources", "SkeletonJigsaw", "EntityParticle",
         "EntityPiece", "EntityShooter", "EntityFireball", "EntityDokuroHead",
-        "EntityBones", "RandomSpawner", "EntityDokuroDeathBones"
+        "EntityBones", "EntitySpawner", "BoneJumpSpawner"
     ],
 
     // Browser, Frameworks and Globals
