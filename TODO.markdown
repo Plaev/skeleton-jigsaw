@@ -1,32 +1,10 @@
 TODO
 ====
 
-Sprint 1
---------
+Roadmap
+-------
 
-* [--] Make the lava enemy.
-* [--] Make the shooter enemy.
-* [--] Make the fireball that will be shot by shooter enemy.
-* [--] Make the bones animation.
-* [--] Make Dokuro's death animation.
-  * [--] Fix Dokuro's death spawning a new entity.
-* [--] Fix the lava collision to 1 or 2 px less.
-* [--] If the piece fall in lava it will respawn.
-* [--] The shooter should shoot on a line without physics and disappear when it touch another object.
-* [--] Make a playable level
-
-
-Sprint 2
---------
-
-* [--] Make the bones spawn randomly (3 of them?).
-* [--] Make the Death animation to "explode" using the dokuro-death sprite.
-* [--] Fix jump sprites of Dokuro.
-* [--] Fix shooter sprites when shooting.
-* [--] Shooter flip.
-* [--] Fireball animation.
-* [--] Redesign the playable level.
-* [--] Create concept art for the level.
+* [MP] Dokuro new animation before death.
 
 
 Sprint 3
@@ -43,7 +21,29 @@ Sprint 3
 * [MP] HUD piece counter.
 
 
-Roadmap
--------
+Sprint 2
+--------
 
-* [MP] Dokuro new animation before death.
+* [--] Make the bones spawn randomly (3 of them?).
+* [--] Make the Death animation to "explode" using the dokuro-death sprite.
+* [--] Fix jump sprites of Dokuro.
+* [--] Fix shooter sprites when shooting.
+* [--] Shooter flip.
+* [--] Fireball animation.
+* [--] Redesign the playable level.
+* [--] Create concept art for the level.
+
+
+Sprint 1
+--------
+
+* [--] Make the lava enemy.
+* [--] Make the shooter enemy.
+* [--] Make the fireball that will be shot by shooter enemy.
+* [--] Make the bones animation.
+* [--] Make Dokuro's death animation.
+  * [--] Fix Dokuro's death spawning a new entity.
+* [--] Fix the lava collision to 1 or 2 px less.
+* [--] If the piece fall in lava it will respawn.
+* [--] The shooter should shoot on a line without physics and disappear when it touch another object.
+* [--] Make a playable level
