@@ -5,7 +5,7 @@
         "Level01", "Level01Resources", "SkeletonJigsaw", "EntityParticle",
         "EntityPiece", "EntityShooter", "EntityFireball", "EntityDokuroHead",
         "EntityBones", "EntitySpawner", "BoneJumpSpawner", "EntityDokuroDeathBones",
-		"EntityVerticalshooter"
+        "EntityVerticalshooter", "EntityHud"
     ],
 
     // Browser, Frameworks and Globals
