@@ -18,7 +18,7 @@ Sprint 3
 * [M-] Fireball explode animation.
 * [M-] Improve shooter animation.
 * [M-] Piece animation.
-* [MP] HUD piece counter.
+* [M-] HUD piece counter.
 
 
 Sprint 2
