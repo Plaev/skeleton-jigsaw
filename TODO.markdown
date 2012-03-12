@@ -16,7 +16,7 @@ Sprint 4
 * [M-] Create the door entity.
 * [--] Remove piece number.
 * [-P] Piece interaction.
-* [-P] Make piece float.
+* [--] Make piece float.
 * [-P] Increase fireball speed.
 * [-P] Adjust fireball explosion.
 * [-P] Improve mobile gameplay.
