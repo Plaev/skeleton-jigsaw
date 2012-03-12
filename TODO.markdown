@@ -15,9 +15,9 @@ Sprint 4
 * [M-] New animation for piece collection (4 images).
 * [M-] Create the door entity.
 * [--] Remove piece number.
-* [-P] Piece interaction.
 * [--] Make piece float.
 * [--] Increase fireball speed.
+* [-P] Piece interaction.
 * [-P] Adjust fireball explosion.
 * [-P] Improve mobile gameplay.
 
