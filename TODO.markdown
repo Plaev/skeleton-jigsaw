@@ -15,8 +15,8 @@ Sprint 3
 * [--] Solve the BUG with bones and shooter.
 * [--] Try to beautify dokuro death.
 * [--] Vertical shooter.
-* [M-] Fireball explode animation.
-* [M-] Improve shooter animation.
+* [--] Fireball explode animation.
+* [--] Improve shooter animation.
 * [M-] Piece animation.
 * [M-] HUD piece counter.
 
