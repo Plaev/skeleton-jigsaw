@@ -12,7 +12,7 @@ Sprint 4
 
 * [M-] Create new assets based on the concept art.
 * [M-] Basic tutorial level.
-* [MP] New animation for piece collection (4 images).
+* [M-] New animation for piece collection (4 images).
 * [M-] Create the door entity.
 * [--] Remove piece number.
 * [-P] Piece interaction.
