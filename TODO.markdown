@@ -14,7 +14,7 @@ Sprint 4
 * [M-] Basic tutorial level.
 * [MP] New animation for piece collection (4 images).
 * [M-] Create the door entity.
-* [-P] Remove piece number.
+* [--] Remove piece number.
 * [-P] Piece interaction.
 * [-P] Make piece float.
 * [-P] Increase fireball speed.
