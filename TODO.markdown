@@ -7,18 +7,23 @@ Roadmap
 * [MP] Dokuro new animation before death.
 
 
-Sprint 3
+Sprint 4
 --------
 
 * [M-] Create new assets based on the concept art.
-* [M-] Level studies.
+* [M-] Basic tutorial level.
+
+
+Sprint 3
+--------
+
 * [--] Solve the BUG with bones and shooter.
 * [--] Try to beautify dokuro death.
 * [--] Vertical shooter.
 * [--] Fireball explode animation.
 * [--] Improve shooter animation.
-* [M-] Piece animation.
-* [M-] HUD piece counter.
+* [--] Piece animation.
+* [--] HUD piece counter.
 
 
 Sprint 2
