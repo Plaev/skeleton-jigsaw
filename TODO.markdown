@@ -17,7 +17,7 @@ Sprint 4
 * [--] Remove piece number.
 * [--] Make piece float.
 * [--] Increase fireball speed.
-* [-P] Piece interaction.
+* [--] Piece interaction.
 * [-P] Adjust fireball explosion.
 * [-P] Improve mobile gameplay.
 
