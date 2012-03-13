@@ -19,7 +19,7 @@ Sprint 4
 * [--] Increase fireball speed.
 * [--] Piece interaction.
 * [-P] Adjust fireball explosion.
-* [-P] Improve mobile gameplay.
+* [--] Improve mobile gameplay.
 
 
 Sprint 3
