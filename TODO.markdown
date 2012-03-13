@@ -18,7 +18,7 @@ Sprint 4
 * [--] Make piece float.
 * [--] Increase fireball speed.
 * [--] Piece interaction.
-* [-P] Adjust fireball explosion.
+* [--] Adjust fireball explosion.
 * [--] Improve mobile gameplay.
 
 
