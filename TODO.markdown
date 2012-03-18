@@ -12,6 +12,14 @@ Sprint 4
 
 * [M-] Create new assets based on the concept art.
 * [M-] Basic tutorial level.
+* [M-] New animation for piece collection (4 images).
+* [M-] Create the door entity.
+* [--] Remove piece number.
+* [--] Make piece float.
+* [--] Increase fireball speed.
+* [--] Piece interaction.
+* [--] Adjust fireball explosion.
+* [--] Improve mobile gameplay.
 
 
 Sprint 3
