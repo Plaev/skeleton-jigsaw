@@ -13,8 +13,8 @@ Sprint 5
 * [M-] More game assets.
 * [M-] Review mobile buttons.
 * [M-] Basic tutorial level.
-* [-P] Door animation.
-* [-P] Make door entity flip correctly.
+* [--] Door animation.
+* [--] Make door entity flip correctly.
 * [-P] Bug report on iOS for impact.
 
 
