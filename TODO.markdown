@@ -7,11 +7,21 @@ Roadmap
 * [MP] Dokuro new animation before death.
 
 
+Sprint 5
+--------
+
+* [M-] More game assets.
+* [M-] Review mobile buttons.
+* [M-] Basic tutorial level.
+* [--] Door animation.
+* [--] Make door entity flip correctly.
+* [-P] Bug report on iOS for impact.
+
+
 Sprint 4
 --------
 
 * [--] Create new assets based on the concept art.
-* [M-] Basic tutorial level.
 * [--] New animation for piece collection (4 images).
 * [--] Create the door entity.
 * [--] Remove piece number.
