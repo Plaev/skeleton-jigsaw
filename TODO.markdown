@@ -1,21 +1,23 @@
 TODO
 ====
 
+TASKS MOVED TO WUNDERKIT :)
+
 Roadmap
 -------
 
-* [MP] Dokuro new animation before death.
+* [--] Dokuro new animation before death.
 
 
 Sprint 5
 --------
 
-* [M-] More game assets.
-* [M-] Review mobile buttons.
-* [M-] Basic tutorial level.
+* [--] More game assets.
+* [--] Review mobile buttons.
+* [--] Basic tutorial level.
 * [--] Door animation.
 * [--] Make door entity flip correctly.
-* [-P] Bug report on iOS for impact.
+* [--] Bug report on iOS for impact.
 
 
 Sprint 4
