@@ -12,10 +12,10 @@ Sprint 6
 
 * [-M] New door image.
 * [-M] New fireball image.
-* [P-] Try to use the vignette image.
+* [--] Try to use the vignette image.
 * [P-] Change the fireball behavior.
 * [P-] Fix the door animation (24x32 with 6 frames)
-* [P-] New "killer entities" (8x8, 16x16, 32x32, 64x64, 32x128, 64x256)
+* [--] New "killer entities" (8x8, 16x16, 32x32, 64x64, 32x128, 64x256)
 
 
 Sprint 5
