@@ -29,3 +29,13 @@ unify:
 
 check:
 	find lib/game -name "*.js" -exec jshint {} \;
+
+impact:
+	if test -d /Applications; then \
+		sed -i '' 's/\.php//g' lib/weltmeister/config.js; \
+		sed -i '' 's/cd \.\.//g' tools/bake.sh; \
+	else \
+		sed -i 's/\.php//g' lib/weltmeister/config.js; \
+		sed -i 's/cd \.\.//g' tools/bake.sh; \
+	fi
+
