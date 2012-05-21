@@ -10,6 +10,7 @@ GCC_OPTION = --jscomp_off=internetExplorerChecks
 
 #--compilation_level ADVANCED_OPTIMIZATIONS
 
+# Deploy the game
 publish: unify
 	if test -d /Applications; then \
 		sed -i '' 's/<script type="text\/javascript" src="lib\/impact\/impact.js"><\/script>//g' index.html; \
@@ -24,12 +25,7 @@ publish: unify
 	scp -r index.html game.min.js media/ plaevgames@plaevteam.com:/home/plaevgames/plaevteam.com/skeleton-jigsaw/
 	git checkout index.html
 
-unify:
-	./tools/bake.sh
-
-check:
-	find lib/game -name "*.js" -exec jshint {} \;
-
+# Prepare impact to use on plaev games
 impact:
 	if test -d /Applications; then \
 		sed -i '' 's/\.php//g' lib/weltmeister/config.js; \
@@ -39,3 +35,8 @@ impact:
 		sed -i 's/cd \.\.//g' tools/bake.sh; \
 	fi
 
+unify:
+	./tools/bake.sh
+
+check:
+	find lib/game -name "*.js" -exec jshint {} \;
