@@ -6,12 +6,20 @@ Roadmap
 
 * [--] Dokuro new animation before death.
 
+Sprint 7
+--------
+
+* [P-] Fix fireball sprites
+* [-M] Fix door placeholder image.
+* [PM] Make a title screen.
+* [PM] Make a game over screen.
+
 
 Sprint 6
 --------
 
-* [-M] New door image.
-* [-M] New fireball image.
+* [--] New door image.
+* [--] New fireball image.
 * [--] Try to use the vignette image.
 * [--] Change the fireball behavior.
 * [--] Fix the door animation (24x32 with 6 frames) (just 2 frames 24x32 done!)
