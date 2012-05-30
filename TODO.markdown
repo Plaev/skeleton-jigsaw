@@ -9,7 +9,7 @@ Roadmap
 Sprint 7
 --------
 
-* [P-] Fix fireball sprites
+* [--] Fix fireball sprites
 * [-M] Fix door placeholder image.
 * [PM] Make a title screen.
 * [PM] Make a game over screen.
