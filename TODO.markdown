@@ -6,13 +6,20 @@ Roadmap
 
 * [--] Dokuro new animation before death.
 
+Sprint 8
+--------
+
+* [P-] Fix fireball explosion
+* [PM] Make a new title screen, it will be a non-playable level.
+* [PM] Make a new game over screen. 2 images with a timer between them (1 second)
+
 Sprint 7
 --------
 
 * [--] Fix fireball sprites
-* [-M] Fix door placeholder image.
-* [PM] Make a title screen.
-* [PM] Make a game over screen.
+* [--] Fix door placeholder image.
+* [--] Make a title screen.
+* [--] Make a game over screen.
 
 
 Sprint 6
