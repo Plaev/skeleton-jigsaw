@@ -1,11 +1,13 @@
-# Plæv Skeleton Jigsaw game
+# Skeleton Jigsaw
+
+A platformer being developed with Impact.
 
 ## How to run it locally
 
-With the latest stable ruby
+With the latest stable ruby:
 
-* Install bundler
-* run `bundle install --pre`
-* run `rackup`
+- Install bundler
+- run `bundle install --pre`
+- run `rackup`
 
-The server will be available at http://localhost:9292
+The server will be available at `http://localhost:9292`
