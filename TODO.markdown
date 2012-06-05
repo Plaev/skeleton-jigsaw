@@ -10,7 +10,7 @@ Sprint 8
 --------
 
 * [P-] Fix fireball explosion
-* [PM] Make a new title screen, it will be a non-playable level.
+* [-M] Make a new title screen, it will be a non-playable level.
 * [PM] Make a new game over screen. 2 images with a timer between them (1 second)
 
 Sprint 7
