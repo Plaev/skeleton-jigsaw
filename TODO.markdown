@@ -9,7 +9,7 @@ Roadmap
 Sprint 8
 --------
 
-* [P-] Fix fireball explosion
+* [--] Fix fireball explosion
 * [-M] Make a new title screen, it will be a non-playable level.
 * [-M] Make a new game over screen. 2 images with a timer between them (1 second)
 
