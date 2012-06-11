@@ -90,7 +90,7 @@ class Impact < Sinatra::Base
   helpers do
     def from_impact_basedir(dir)
       @folder = dir.to_s.sub(%r{\.\./?},"")
-      @folder.empty? ? File.join(File.dirname(__FILE__), @folder) : @folder
+      @folder.empty? ? "." : @folder
     end
   end
 end
