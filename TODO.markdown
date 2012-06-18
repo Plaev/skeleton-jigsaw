@@ -6,6 +6,7 @@ Roadmap
 
 * [-M] Fix explosion animation.
 * [-M] Fix lava animation.
+* [P-] Fix intro "jump". Dokuro should not jump on the title screen.
 
 
 Sprint 10
