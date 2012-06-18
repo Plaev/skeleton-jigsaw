@@ -4,12 +4,23 @@ TODO
 Roadmap
 -------
 
-* [--] Dokuro new animation before death.
+* [-M] Fix explosion animation.
+
+
+Sprint 10
+--------
+
+* [P-] Finish the ladder/climb work.
+* [P-] Door opens when the piece is collected.
+* [-M] Finish the level 2.
+* [-M] Fix door graphic to reflect the piece colletion.
+
 
 Sprint 9 (partial)
 --------
 
-* [P-] Start working on teleport and climber.
+* [--] Start working on teleport and climber.
+
 
 Sprint 8
 --------
@@ -17,6 +28,7 @@ Sprint 8
 * [--] Fix fireball explosion
 * [--] Make a new title screen, it will be a non-playable level.
 * [--] Make a new game over screen. 2 images with a timer between them (1 second)
+
 
 Sprint 7
 --------
