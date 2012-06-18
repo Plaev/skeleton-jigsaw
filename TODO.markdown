@@ -13,7 +13,7 @@ Sprint 10
 * [P-] Finish the ladder/climb work.
 * [P-] Door opens when the piece is collected.
 * [-M] Finish the level 2.
-* [-M] Fix door graphic to reflect the piece colletion.
+* [-M] Put an engraving of a piece on the door sprite
 
 
 Sprint 9 (partial)
