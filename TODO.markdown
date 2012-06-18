@@ -5,6 +5,7 @@ Roadmap
 -------
 
 * [-M] Fix explosion animation.
+* [-M] Fix lava animation.
 
 
 Sprint 10
