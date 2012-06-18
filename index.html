@@ -1,53 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Plaev - Skeleton Jigsaw</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+  <title>Plaev - Skeleton Jigsaw</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+  <style type="text/css">
+    html,body { background-color:#000; color:#fff; font-family:Helvetica, Arial, sans-serif; margin:0; padding:0; font-size:12pt; }
+    #canvas { position:absolute; left:0; right:0; top:0; bottom:0; margin:auto; border:1px solid #555; }
 
-	<style type="text/css">
-		html,body {
-			background-color: #000;
-			color: #fff;
-			font-family: helvetica, arial, sans-serif;
-			margin: 0;
-			padding: 0;
-			font-size: 12pt;
-		}
+    /* mobile devices */
+    .button { background-image:url(media/mobile-buttons.png); display:none; background-repeat:no-repeat; width:80px; height:96px; position:absolute; bottom:0px; -webkit-touch-callout:none; -webkit-user-select:none; -webkit-tap-highlight-color:rgba(0,0,0,0); -webkit-text-size-adjust:none; }
+    #buttonLeft { left:0; background-position:0, 0; }
+    #buttonRight { left:80px; background-position:-80px, 0; }
+    #buttonAction { right:80px; background-position:-160px, 0; }
+    #buttonJump { right:0px; background-position:-240px, 0; }
+  </style>
 
-		#canvas {
-			position: absolute;
-			left: 0;
-			right: 0;
-			top: 0;
-			bottom: 0;
-			margin: auto;
-			border: 1px solid #555;
-		}
+  <!-- Development -->
+  <script type="text/javascript" src="lib/impact/impact.js"></script>
+  <script type="text/javascript" src="lib/game/main.js"></script>
 
-		/* mobile devices */
-		.button { background-image: url(media/mobile-buttons.png); display: none; background-repeat: no-repeat; width: 80px; height: 96px; position: absolute; bottom: 0px; -webkit-touch-callout: none; -webkit-user-select: none; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-text-size-adjust: none; }
-		#buttonLeft { left: 0; background-position: 0, 0; }
-		#buttonRight { left: 80px; background-position: -80px, 0; }
-		#buttonAction { right: 80px; background-position: -160px, 0; }
-		#buttonJump { right: 0px; background-position: -240px, 0; }
-	</style>
-
-	<!-- Development -->
-	<script type="text/javascript" src="lib/impact/impact.js"></script>
-	<script type="text/javascript" src="lib/game/main.js"></script>
-
-	<!-- Production -->
-	<!-- <script type="text/javascript" src="game.min.js"></script> -->
+  <!-- Production -->
+  <!-- <script type="text/javascript" src="game.min.js"></script> -->
 </head>
 
 <!-- This will scroll the viewport, so that the navigation bar is no longer visible -->
 <body onload="setTimeout(function(){window.scrollTo(0,0);},1);">
-	<div id="game">
-		<canvas id="canvas" onclick="ig.system.stopRunLoop.call(ig.system)" onDblClick="ig.system.startRunLoop.call(ig.system)"></canvas>
-		<div class="button" id="buttonLeft"></div>
-		<div class="button" id="buttonRight"></div>
-		<div class="button" id="buttonAction"></div>
-		<div class="button" id="buttonJump"></div>
-	</div>
+  <div id="game">
+    <canvas id="canvas" onclick="ig.system.stopRunLoop.call(ig.system)" onDblClick="ig.system.startRunLoop.call(ig.system)"></canvas>
+    <div class="button" id="buttonLeft"></div>
+    <div class="button" id="buttonRight"></div>
+    <div class="button" id="buttonAction"></div>
+    <div class="button" id="buttonJump"></div>
+  </div>
 </body>
 </html>
