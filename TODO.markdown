@@ -7,6 +7,7 @@ Roadmap
 * [-M] Fix explosion animation.
 * [-M] Fix lava animation.
 * [P-] Fix intro "jump". Dokuro should not jump on the title screen.
+* [P-] use wmScalable: true for killer entities
 
 
 Sprint 10
