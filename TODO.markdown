@@ -12,7 +12,7 @@ Roadmap
 Sprint 10
 --------
 
-* [P-] Finish the ladder/climb work.
+* [--] Finish the ladder/climb work.
 * [--] Door opens when the piece is collected.
 * [-M] Finish the level 2.
 * [-M] Put an engraving of a piece on the door sprite
