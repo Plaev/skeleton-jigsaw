@@ -5,13 +5,15 @@ Roadmap
 -------
 
 * [-M] Fix explosion animation.
+* [-M] Fix lava animation.
+* [P-] Fix intro "jump". Dokuro should not jump on the title screen.
 
 
 Sprint 10
 --------
 
-* [P-] Finish the ladder/climb work.
-* [P-] Door opens when the piece is collected.
+* [--] Finish the ladder/climb work.
+* [--] Door opens when the piece is collected.
 * [-M] Finish the level 2.
 * [-M] Put an engraving of a piece on the door sprite
 
