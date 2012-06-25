@@ -5,12 +5,12 @@ Roadmap
 -------
 
 * [-M] Fix explosion animation.
-* [-M] Fix lava animation.
+* [-M] Level 3
 * [P-] Fix intro "jump". Dokuro should not jump on the title screen.
 * [P-] Fireball explosion should not kill dokuro.
 * [P-] Door should change its graphic state when the piece is collected and be opened by dokuro action.
-* [PM] Add lava animation
-* [PM] Add lava falls animation
+* [PM] Add lava animation.
+* [PM] Add lava waterfall animation.
 
 
 Sprint 10
