@@ -7,6 +7,10 @@ Roadmap
 * [-M] Fix explosion animation.
 * [-M] Fix lava animation.
 * [P-] Fix intro "jump". Dokuro should not jump on the title screen.
+* [P-] Fireball explosion should not kill dokuro.
+* [P-] Door should change its graphic state when the piece is collected and be opened by dokuro action.
+* [PM] Add lava animation
+* [PM] Add lava falls animation
 
 
 Sprint 10
@@ -14,8 +18,8 @@ Sprint 10
 
 * [--] Finish the ladder/climb work.
 * [--] Door opens when the piece is collected.
-* [-M] Finish the level 2.
-* [-M] Put an engraving of a piece on the door sprite
+* [--] Finish the level 2.
+* [--] Put an engraving of a piece on the door sprite
 
 
 Sprint 9 (partial)
