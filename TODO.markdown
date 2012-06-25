@@ -1,16 +1,32 @@
 TODO
 ====
 
-Roadmap
+General Roadmap
+---------------
+
+* [PM] Geiser or wind to make dokuro "fly".
+* [PM] Ghost platforms.
+* [PM] Moving platforms.
+
+
+Demo Roadmap
 -------
 
-* [-M] Fix explosion animation.
+* [-M] Level 4
+
+
+Sprint 11
+--------
+
 * [-M] Level 3
+* [-M] Fix explosion animation.
+* [-M] Add lava animation.
+* [-M] Add lava waterfall animation.
+* [-M] Try GIF inside canvas (!?)
+* [P-] Door should change its graphic state when the piece is collected and be opened by dokuro action.
 * [P-] Fix intro "jump". Dokuro should not jump on the title screen.
 * [P-] Fireball explosion should not kill dokuro.
-* [P-] Door should change its graphic state when the piece is collected and be opened by dokuro action.
-* [PM] Add lava animation.
-* [PM] Add lava waterfall animation.
+* [P-] Link a level to another.
 
 
 Sprint 10
