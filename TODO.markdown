@@ -26,7 +26,7 @@ Sprint 11
 * [--] Door should change its graphic state when the piece is collected and be opened by Dokuro action.
 * [--] Fix intro "jump". Dokuro should not jump on the title screen.
 * [--] Fix fireball explosion flip for normal shooter.
-* [P-] Fireball explosion should not kill Dokuro.
+* [--] Fireball explosion should not kill Dokuro.
 * [P-] Link a level to another.
 
 
