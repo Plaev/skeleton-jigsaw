@@ -23,7 +23,7 @@ Sprint 11
 * [-M] Add lava animation.
 * [-M] Add lava waterfall animation.
 * [-M] Try GIF inside canvas (!?)
-* [P-] Door should change its graphic state when the piece is collected and be opened by Dokuro action.
+* [--] Door should change its graphic state when the piece is collected and be opened by Dokuro action.
 * [P-] Fix intro "jump". Dokuro should not jump on the title screen.
 * [P-] Fireball explosion should not kill Dokuro.
 * [P-] Link a level to another.
