@@ -7,27 +7,38 @@ General Roadmap
 * [PM] Geyser or wind to make dokuro "fly".
 * [PM] Ghost platforms.
 * [PM] Moving platforms.
+* [PM] Teleporters.
 
 
 Demo Roadmap
 -------
 
+* [PM] Credits and "Thanks for playing".
+* [PM] Demo game over. "The end".
+* [PM] Dokuro door animation.
+
+
+Sprint 12
+---------
+
 * [-M] Level 4.
+* [P-] Fix hud and vignette when changing levels.
+* [P-] Respawn on the same level.
 
 
 Sprint 11
 ---------
 
-* [-M] Level 3.
-* [-M] Fix explosion animation.
-* [-M] Add lava animation.
-* [-M] Add lava waterfall animation.
-* [-M] Try GIF inside canvas (!?)
+* [--] Level 3.
+* [--] Fix explosion animation.
+* [--] Add lava animation.
+* [--] Add lava waterfall animation.
+* [--] Try GIF inside canvas (!?)
 * [--] Door should change its graphic state when the piece is collected and be opened by Dokuro action.
 * [--] Fix intro "jump". Dokuro should not jump on the title screen.
 * [--] Fix fireball explosion flip for normal shooter.
 * [--] Fireball explosion should not kill Dokuro.
-* [P-] Link a level to another.
+* [--] Link a level to another.
 
 
 Sprint 10
