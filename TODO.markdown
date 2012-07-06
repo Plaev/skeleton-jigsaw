@@ -22,7 +22,7 @@ Sprint 12
 ---------
 
 * [-M] Level 4.
-* [P-] Fix hud and vignette when changing levels.
+* [--] Fix hud and vignette when changing levels.
 * [--] Respawn on the same level.
 
 
