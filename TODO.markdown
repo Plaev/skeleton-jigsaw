@@ -13,15 +13,26 @@ General Roadmap
 Demo Roadmap
 -------
 
-* [PM] Credits and "Thanks for playing".
-* [PM] Demo game over. "The end".
 * [PM] Dokuro door animation.
+
+
+Sprint 13
+---------
+
+* [-M] Create more assets.
+  * [-M] Random new assets.
+  * [-M] Final door.
+  * [-M] Door numbers.
+  * [-M] Remove the piece from the door (a new asset for it).
+* [-M] Improve dokuro asset.
+* [P-] Credits and "Thanks for playing".
+* [P-] Fix hud show the collected piece.
 
 
 Sprint 12
 ---------
 
-* [-M] Level 4.
+* [--] Level 4.
 * [--] Fix hud and vignette when changing levels.
 * [--] Respawn on the same level.
 
