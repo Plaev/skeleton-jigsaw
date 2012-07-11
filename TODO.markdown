@@ -26,7 +26,7 @@ Sprint 13
   * [-M] Remove the piece from the door (a new asset for it).
 * [-M] Improve dokuro asset.
 * [P-] Credits and "Thanks for playing".
-* [P-] Fix hud show the collected piece.
+* [--] Fix hud show the collected piece.
 
 
 Sprint 12
