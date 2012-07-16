@@ -14,17 +14,17 @@ Demo Roadmap
 -------
 
 * [PM] Dokuro door animation.
+* [-M] Improve dokuro asset.
 
 
 Sprint 13
 ---------
 
-* [-M] Create more assets.
-  * [-M] Random new assets.
-  * [-M] Final door.
-  * [-M] Door numbers.
-  * [-M] Remove the piece from the door (a new asset for it).
-* [-M] Improve dokuro asset.
+* [--] Create more assets.
+  * [--] Random new assets.
+  * [--] Final door.
+  * [--] Door numbers.
+  * [--] Remove the piece from the door (a new asset for it).
 * [P-] Credits and "Thanks for playing".
 * [P-] Fix hud show the collected piece.
 
