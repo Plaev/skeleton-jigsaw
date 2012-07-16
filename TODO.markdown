@@ -26,7 +26,7 @@ Sprint 13
   * [--] Door numbers.
   * [--] Remove the piece from the door (a new asset for it).
 * [P-] Credits and "Thanks for playing".
-* [P-] Fix hud show the collected piece.
+* [--] Fix hud show the collected piece.
 
 
 Sprint 12
