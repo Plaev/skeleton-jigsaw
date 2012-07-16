@@ -15,6 +15,12 @@ Demo Roadmap
 
 * [PM] Dokuro door animation.
 * [-M] Improve dokuro asset.
+* [-M] Add "DEMO" on the logo.
+
+
+Sprint 14 (Polishment start!)
+---------
+
 
 
 Sprint 13
@@ -25,7 +31,7 @@ Sprint 13
   * [--] Final door.
   * [--] Door numbers.
   * [--] Remove the piece from the door (a new asset for it).
-* [P-] Credits and "Thanks for playing".
+* [--] Credits and "Thanks for playing".
 * [--] Fix hud show the collected piece.
 
 
