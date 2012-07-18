@@ -21,7 +21,7 @@ Demo Roadmap
 Sprint 14 (Polishment start!)
 ---------
 
-* [P-] Should not go back to the previous level.
+* [--] Should not go back to the previous level.
 * [P-] Fix the vignette spawning before the other entities.
 * [P-] Hud should always be above vignette.
 * [-M] Remove the jars from the beginning of the first level.
