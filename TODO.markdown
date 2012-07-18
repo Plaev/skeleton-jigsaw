@@ -24,6 +24,14 @@ Sprint 14 (Polishment start!)
 * [P-] Should not go back to the previous level.
 * [P-] Fix the vignette spawning before the other entities.
 * [P-] Hud should always be above vignette.
+* [-M] Remove the jars from the beginning of the first level.
+* [-M] Remove the two statues from the beginning of the first level.
+* [-M] Add collision to the lava on the level 2.
+* [-M] Add chains graphics or some metal parts to the level 3.
+* [-M] Improve the Jar graphics.
+* [-M] Improve the candles graphics.
+* [-M] Improve the door level indicator.
+* [-M] Fix the lava layer to be the top layer (above all entities).
 
 
 Sprint 13
