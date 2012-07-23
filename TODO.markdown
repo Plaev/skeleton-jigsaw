@@ -23,7 +23,7 @@ Sprint 15
 * [P-] Start the code to handle sound effects.
 * [PM] A new animation to vertical shooter.
 * [-M] Improve dokuro asset.
-* [-M] Add "DEMO" on the logo.
+* [-M] Add "DEMO" to skeleton jigsaw logo.
 * [-M] Improve the first level entrance graphics.
 
 
