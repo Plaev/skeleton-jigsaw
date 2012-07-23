@@ -21,9 +21,9 @@ Sprint 15
 
 * [P-] Change the savegame to the first level after the credits.
 * [P-] Start the code to handle sound effects.
-* [PM] A new animation to vertical shooter.
-* [-M] Improve dokuro asset.
-* [-M] Add "DEMO" on the logo.
+* [PM] Add new variation to the vertical shooter (lava shooter).
+* [-M] Improve Dokuro asset.
+* [-M] Write "Demo" on the logo.
 * [-M] Improve the first level entrance graphics.
 
 
