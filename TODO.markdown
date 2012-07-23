@@ -14,6 +14,9 @@ Demo Roadmap
 -------
 
 * [PM] Dokuro door animation.
+* [PM] Fix level03.
+* [PM] Fix level04.
+* [PM] Lava animation.
 
 
 Sprint 15
@@ -21,9 +24,16 @@ Sprint 15
 
 * [P-] Change the savegame to the first level after the credits.
 * [P-] Start the code to handle sound effects.
+  * [P-] Jump
+  * [P-] Shooter
+  * [P-] Background sound
+  * [P-] Dokuro death
+  * [P-] Door
+  * [P-] Piece collected
 * [P-] Make the gameover level switch to the current level.
 * [P-] When dokuro dies we should switch to the gameover level
-* [PM] Add new variation to the vertical shooter (lava shooter).
+* [P-] Fix the vignette spawning before the other entities.
+* [PM] Add new grephic variation to the vertical shooter (lava shooter).
 * [-M] Gameover level.
 * [-M] Improve Dokuro asset.
 * [-M] Write "Demo" on the logo.
