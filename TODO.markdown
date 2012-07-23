@@ -14,8 +14,17 @@ Demo Roadmap
 -------
 
 * [PM] Dokuro door animation.
+
+
+Sprint 15
+---------
+
+* [P-] Change the savegame to the first level after the credits.
+* [P-] Start the code to handle sound effects.
+* [PM] A new animation to vertical shooter.
 * [-M] Improve dokuro asset.
 * [-M] Add "DEMO" on the logo.
+* [-M] Improve the first level entrance graphics.
 
 
 Sprint 14 (Polishment start!)
@@ -24,14 +33,14 @@ Sprint 14 (Polishment start!)
 * [--] Should not go back to the previous level.
 * [--] Fix the vignette spawning before the other entities.
 * [--] Hud should always be above vignette.
-* [-M] Remove the jars from the beginning of the first level.
-* [-M] Remove the two statues from the beginning of the first level.
-* [-M] Add collision to the lava on the level 2.
-* [-M] Add chains graphics or some metal parts to the level 3.
-* [-M] Improve the Jar graphics.
-* [-M] Improve the candles graphics.
-* [-M] Improve the door level indicator.
-* [-M] Fix the lava layer to be the top layer (above all entities).
+* [--] Remove the jars from the beginning of the first level.
+* [--] Remove the two statues from the beginning of the first level.
+* [--] Add collision to the lava on the level 2.
+* [--] Add chains graphics or some metal parts to the level 3.
+* [--] Improve the Jar graphics.
+* [--] Improve the candles graphics.
+* [--] Improve the door level indicator.
+* [--] Fix the lava layer to be the top layer (above all entities).
 
 
 Sprint 13
