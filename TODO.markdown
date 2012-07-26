@@ -24,13 +24,13 @@ Sprint 15
 ---------
 
 * [P-] Change the savegame to the first level after the credits.
-* [P-] Start the code to handle sound effects.
-  * [P-] Jump
-  * [P-] Shooter
-  * [P-] Background sound
-  * [P-] Dokuro death
-  * [P-] Door
-  * [P-] Piece collected
+* [--] Start the code to handle sound effects.
+  * [--] Jump
+  * [--] Shooter
+  * [--] Background sound
+  * [--] Dokuro death
+  * [--] Door
+  * [--] Piece collected
 * [P-] Make the gameover level switch to the current level.
 * [P-] When dokuro dies we should switch to the gameover level
 * [PM] Add new grephic variation to the vertical shooter (lava shooter).
