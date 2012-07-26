@@ -23,7 +23,7 @@ Demo Roadmap
 Sprint 15
 ---------
 
-* [P-] Change the savegame to the first level after the credits.
+* [--] Change the savegame to the first level after the credits.
 * [--] Start the code to handle sound effects.
   * [--] Jump
   * [--] Shooter
