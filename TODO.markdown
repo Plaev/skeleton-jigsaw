@@ -17,6 +17,7 @@ Demo Roadmap
 * [PM] Fix level03.
 * [PM] Fix level04.
 * [PM] Lava animation.
+* [P-] Fix the vignette spawning before the other entities.
 
 
 Sprint 15
@@ -32,7 +33,6 @@ Sprint 15
   * [P-] Piece collected
 * [P-] Make the gameover level switch to the current level.
 * [P-] When dokuro dies we should switch to the gameover level
-* [P-] Fix the vignette spawning before the other entities.
 * [PM] Add new grephic variation to the vertical shooter (lava shooter).
 * [-M] Gameover level.
 * [-M] Improve Dokuro asset.
