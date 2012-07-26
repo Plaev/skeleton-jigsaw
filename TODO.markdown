@@ -31,8 +31,8 @@ Sprint 15
   * [--] Dokuro death
   * [--] Door
   * [--] Piece collected
-* [P-] Make the gameover level switch to the current level.
-* [P-] When dokuro dies we should switch to the gameover level
+* [--] Make the gameover level switch to the current level.
+* [--] When dokuro dies we should switch to the gameover level
 * [PM] Add new grephic variation to the vertical shooter (lava shooter).
 * [-M] Gameover level.
 * [-M] Improve Dokuro asset.
