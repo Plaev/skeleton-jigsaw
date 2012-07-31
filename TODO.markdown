@@ -23,7 +23,7 @@ Sprint 16
 
 * [-M] Fix level03.
 * [--] Make the pipe on the 3rd level to look different because it looks like bugged shooter.
-* [P-] Should not skip the credits with the action button.
+* [--] Should not skip the credits with the action button.
 * [P-] Game over sound.
 * [P-] Credits sound.
 * [P-] Jump fall sound.
