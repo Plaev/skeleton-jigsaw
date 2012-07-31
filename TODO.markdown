@@ -25,7 +25,7 @@ Sprint 16
 * [--] Make the pipe on the 3rd level to look different because it looks like bugged shooter.
 * [--] Should not skip the credits with the action button.
 * [P-] Game over sound.
-* [P-] Credits sound.
+* [--] Credits sound.
 * [P-] Jump fall sound.
 * [P-] Make last animation frame of the vertical shooter last longer.
 
