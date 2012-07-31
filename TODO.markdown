@@ -26,7 +26,7 @@ Sprint 16
 * [--] Should not skip the credits with the action button.
 * [--] Game over sound.
 * [--] Credits sound.
-* [P-] Jump fall sound.
+* [--] Jump fall sound.
 * [P-] Make last animation frame of the vertical shooter longer.
 
 
