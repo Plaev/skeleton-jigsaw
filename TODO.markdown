@@ -14,10 +14,19 @@ Demo Roadmap
 -------
 
 * [PM] Dokuro door animation.
-* [PM] Fix level03.
 * [PM] Fix level04.
 * [PM] Lava animation.
-* [-M] Make the pipe on the 3rd level to look different because it looks like bugged shooter.
+
+
+Sprint 16
+---------
+
+* [-M] Fix level03.
+* [--] Make the pipe on the 3rd level to look different because it looks like bugged shooter.
+* [P-] Should not skip the credits with the action button.
+* [P-] Game over sound.
+* [P-] Credits sound.
+* [P-] Jump fall sound.
 
 
 Sprint 15
@@ -34,11 +43,11 @@ Sprint 15
 * [--] Make the gameover level switch to the current level.
 * [--] When dokuro dies we should switch to the gameover level
 * [--] Fix the vignette spawning before the other entities.
-* [-M] Add new grephic variation to the vertical shooter (lava shooter).
-* [-M] Gameover level.
-* [-M] Improve Dokuro asset.
-* [-M] Write "Demo" on the logo.
-* [-M] Improve the first level entrance graphics.
+* [--] Add new grephic variation to the vertical shooter (lava shooter).
+* [--] Gameover level.
+* [--] Improve Dokuro asset.
+* [--] Write "Demo" on the logo.
+* [--] Improve the first level entrance graphics.
 
 
 Sprint 14 (Polishment start!)
