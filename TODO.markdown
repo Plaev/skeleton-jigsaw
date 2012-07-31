@@ -11,7 +11,7 @@ General Roadmap
 
 
 Demo Roadmap
--------
+------------
 
 * [PM] Dokuro door animation.
 * [PM] Fix level04.
@@ -52,7 +52,7 @@ Sprint 15
 
 
 Sprint 14 (Polishment start!)
----------
+-----------------------------
 
 * [--] Should not go back to the previous level.
 * [--] Fix the vignette spawning before the other entities.
@@ -112,7 +112,7 @@ Sprint 10
 
 
 Sprint 9 (partial)
---------
+------------------
 
 * [--] Start working on teleport and climber.
 
