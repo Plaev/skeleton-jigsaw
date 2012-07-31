@@ -27,6 +27,7 @@ Sprint 16
 * [P-] Game over sound.
 * [P-] Credits sound.
 * [P-] Jump fall sound.
+* [P-] Make last animation frame of the vertical shooter last longer.
 
 
 Sprint 15
