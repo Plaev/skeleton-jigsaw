@@ -14,14 +14,19 @@ Demo Roadmap
 ------------
 
 * [PM] Dokuro door animation.
-* [PM] Fix level04.
-* [PM] Lava animation.
+
+
+Sprint 17
+---------
+
+* [-M] Fix level04.
+* [PM] Lava animation. 32x8. 4 frames. 4 states.
 
 
 Sprint 16
 ---------
 
-* [-M] Fix level03.
+* [--] Fix level03.
 * [--] Make the pipe on the 3rd level to look different because it looks like bugged shooter.
 * [--] Should not skip the credits with the action button.
 * [--] Game over sound.
