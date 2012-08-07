@@ -20,7 +20,7 @@ Sprint 17
 ---------
 
 * [-M] Fix level04.
-* [PM] Lava animation. 32x8. 4 frames. 4 states.
+* [-M] Lava animation. 32x8. 4 frames. 4 states.
 
 
 Sprint 16
