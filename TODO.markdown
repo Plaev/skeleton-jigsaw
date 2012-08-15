@@ -16,11 +16,18 @@ Demo Roadmap
 * [PM] Dokuro door animation.
 
 
+Sprint 18
+---------
+
+* [-M] Lava animation graphics.
+* [--] Fix the door graphic when closed.
+
+
 Sprint 17
 ---------
 
-* [-M] Fix level04.
-* [-M] Lava animation. 32x8. 4 frames. 4 states.
+* [--] Fix level04.
+* [--] Lava animation code.
 
 
 Sprint 16
