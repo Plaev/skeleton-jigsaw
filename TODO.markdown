@@ -19,11 +19,11 @@ DONE! \o/
 Sprint 18
 ---------
 
-* [PM] Dokuro door animation.
+* [-M] Dokuro door animation.
 * [-M] Lava animation graphics.
 * [--] Fix the door graphic when closed.
 * [--] Fix lava shooter to kill dokuro.
-* [P-] Look for creative commons sfx.
+* [--] Look for creative commons sfx.
 
 
 Sprint 17
