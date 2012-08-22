@@ -25,7 +25,7 @@ Sprint 19
 * [--] Make the ‘Dokuro entering the door’ animation faster (about 100ms)
 * [P-] Fix overlapping BGM
 * [P-] Fix BGM not stopping
-* [P-] Review performance
+* [--] Review performance
 * [--] Fix being able to walk when the ‘Dokuro entering the door’ animation is running
 * [--] Remove start game delay
 * [-M] Try to make new SFX & BGM
