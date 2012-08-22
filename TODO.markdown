@@ -26,7 +26,7 @@ Sprint 19
 * [P-] Fix overlapping BGM
 * [P-] Fix BGM not stopping
 * [P-] Review performance
-* [P-] Fix being able to walk when the ‘Dokuro entering the door’ animation is running
+* [--] Fix being able to walk when the ‘Dokuro entering the door’ animation is running
 * [--] Remove start game delay
 * [-M] Try to make new SFX & BGM
 * [-M] Place lava animations
