@@ -16,11 +16,27 @@ Demo Roadmap
 DONE! \o/
 
 
+Sprint 19
+---------
+
+* [P-] 6 animation frames for the lava animation
+* [P-] Make the lava animation faster
+* [P-] 3 animation frames for the ‘Dokuro entering the door’ animation (1-2-3-2 pattern)
+* [P-] Make the ‘Dokuro entering the door’ animation faster
+* [P-] Fix overlapping BGM
+* [P-] Fix BGM not stopping
+* [P-] Review performance
+* [P-] Fix being able to walk when the ‘Dokuro entering the door’ animation is running
+* [P-] Remove start game delay
+* [-M] Try to make new SFX & BGM
+* [-M] Place lava animations
+
+
 Sprint 18
 ---------
 
-* [-M] Dokuro door animation.
-* [-M] Lava animation graphics.
+* [--] Dokuro door animation.
+* [--] Lava animation graphics.
 * [--] Fix the door graphic when closed.
 * [--] Fix lava shooter to kill dokuro.
 * [--] Look for creative commons sfx.
