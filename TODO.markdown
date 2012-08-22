@@ -23,8 +23,8 @@ Sprint 19
 * [--] Make the lava animation faster (about 100ms)
 * [--] 3 animation frames for the ‘Dokuro entering the door’ animation (1-2-3-2 pattern)
 * [--] Make the ‘Dokuro entering the door’ animation faster (about 100ms)
-* [P-] Fix overlapping BGM
-* [P-] Fix BGM not stopping
+* [--] Fix overlapping BGM
+* [--] Fix BGM not stopping
 * [--] Review performance
 * [--] Fix being able to walk when the ‘Dokuro entering the door’ animation is running
 * [--] Remove start game delay
