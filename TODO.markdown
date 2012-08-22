@@ -20,9 +20,9 @@ Sprint 19
 ---------
 
 * [P-] 6 animation frames for the lava animation
-* [P-] Make the lava animation faster
+* [P-] Make the lava animation faster (about 100ms)
 * [P-] 3 animation frames for the ‘Dokuro entering the door’ animation (1-2-3-2 pattern)
-* [P-] Make the ‘Dokuro entering the door’ animation faster
+* [P-] Make the ‘Dokuro entering the door’ animation faster (about 100ms)
 * [P-] Fix overlapping BGM
 * [P-] Fix BGM not stopping
 * [P-] Review performance
