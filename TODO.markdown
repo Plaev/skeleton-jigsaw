@@ -28,8 +28,8 @@ Sprint 19
 * [--] Review performance
 * [--] Fix being able to walk when the ‘Dokuro entering the door’ animation is running
 * [--] Remove start game delay
-* [-M] Try to make new SFX & BGM
-* [-M] Place lava animations
+* [--] Try to make new SFX & BGM
+* [--] Place lava animations
 
 
 Sprint 18
