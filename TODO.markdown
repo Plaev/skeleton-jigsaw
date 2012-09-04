@@ -10,11 +10,24 @@ General Roadmap
 * [PM] Teleporters.
 
 
+Sprint 21
+---------
+
+* [P-] Polish sound effects
+* [P-] Fix game music loop.
+* [P-] Sound load time.
+* [-M] Create graphics for the ending level.
+* [-M] Create the ending level.
+* [-M] Create ending anim for dokuro.
+* [-M] Create glowing anim for dokuro.
+* [-M] A new graphic for the jigsaw.
+
+
 Sprint 20
 ---------
 
-* [PM] Finish sound effects
-* [PM] Think about the last level.
+* [--] Finish sound effects
+* [--] Think about the last level.
 
 
 Sprint 19
