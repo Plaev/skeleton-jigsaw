@@ -13,9 +13,9 @@ General Roadmap
 Sprint 21
 ---------
 
-* [P-] Cut off the calm beginning of the intro BGM
+* [--] Cut off the calm beginning of the intro BGM
 * [P-] Fix game music loop
-* [P-] Fix BGM loading time
+* [--] Fix BGM loading time
 * [-M] Create graphics for the ending level
 * [-M] Create the ending level
 * [-M] Create ending animation for Dokuro
