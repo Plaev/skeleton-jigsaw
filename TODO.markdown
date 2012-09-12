@@ -14,7 +14,7 @@ Sprint 21
 ---------
 
 * [--] Cut off the calm beginning of the intro BGM
-* [P-] Fix game music loop
+* [--] Fix game music loop
 * [--] Fix BGM loading time
 * [--] Create graphics for the ending level
 * [--] Create the ending level
