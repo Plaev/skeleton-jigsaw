@@ -16,10 +16,10 @@ Sprint 21
 * [--] Cut off the calm beginning of the intro BGM
 * [P-] Fix game music loop
 * [--] Fix BGM loading time
-* [-M] Create graphics for the ending level
-* [-M] Create the ending level
-* [-M] Create ending animation for Dokuro
-* [-M] Create glowing animation for Dokuro
+* [--] Create graphics for the ending level
+* [--] Create the ending level
+* [--] Create ending animation for Dokuro
+* [--] Create glowing animation for Dokuro
 
 
 Sprint 20
