@@ -14,9 +14,9 @@ Sprint 22
 ---------
 
 * [P-] Work on the last scene.
-* [P-] Look for a fadeout for the ending level.
+* [--] Look for a fadeout for the ending level.
 * [-M] Look for BGM and SFX for the ending level (glowing jigsaw, glowing dokuro, ending level theme, ...).
-* [PM] Create a new entity for the jigsaw.
+* [-M] Create a new entity for the jigsaw.
 
 
 Sprint 21
