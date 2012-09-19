@@ -10,13 +10,22 @@ General Roadmap
 * [PM] Teleporters.
 
 
+Sprint 23
+---------
+
+* [P-] Finish the last scene.
+* [-M] Fix jigsaw entity.
+* [-M] Create a hotsite for the game.
+* [-M] Create the plaev team page linking to the game hotsite.
+
+
 Sprint 22
 ---------
 
-* [P-] Work on the last scene.
+* [--] Work on the last scene.
 * [--] Look for a fadeout for the ending level.
-* [-M] Look for BGM and SFX for the ending level (glowing jigsaw, glowing dokuro, ending level theme, ...).
-* [-M] Create a new entity for the jigsaw.
+* [--] Look for BGM and SFX for the ending level (glowing jigsaw, glowing dokuro, ending level theme, ...).
+* [--] Create a new entity for the jigsaw.
 
 
 Sprint 21
