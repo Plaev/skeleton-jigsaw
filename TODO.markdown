@@ -13,7 +13,7 @@ General Roadmap
 Sprint 23
 ---------
 
-* [P-] Finish the last scene.
+* [--] Finish the last scene.
 * [-M] Fix jigsaw entity.
 * [-M] Create a hotsite for the game.
 * [-M] Create the plaev team page linking to the game hotsite.
