@@ -10,13 +10,22 @@ General Roadmap
 * [PM] Teleporters.
 
 
+Sprint 24
+---------
+
+* [-M] Create a hotsite for the game.
+* [-M] Fix gameover image for mobile.
+* [-M] Fix title screen image for mobile and desktop.
+* [P-] Make images to work good on mobile.
+* [P-] Fix mobile safari bug.
+
+
 Sprint 23
 ---------
 
 * [--] Finish the last scene.
-* [-M] Fix jigsaw entity.
-* [-M] Create a hotsite for the game.
-* [-M] Create the plaev team page linking to the game hotsite.
+* [--] Fix jigsaw entity.
+* [--] Create the plaev team page linking to the game hotsite.
 
 
 Sprint 22
