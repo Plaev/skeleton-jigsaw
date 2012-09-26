@@ -14,12 +14,13 @@ Sprint 24
 ---------
 
 * [-M] Create a hotsite for the game.
-* [-M] Fix gameover image for mobile.
-* [-M] Fix title screen image for mobile and desktop.
+* [PM] Fix gameover image for mobile.
+* [PM] Fix title screen image for mobile and desktop.
 * [-M] Change dokuro image on plaev website.
 * [-M] Change colors for plaev website.
 * [--] Make images to work good on mobile.
 * [--] Fix mobile safari bug.
+* [PM] Draw some extra parts on the ending level to look good on mobile.
 
 
 Sprint 23
