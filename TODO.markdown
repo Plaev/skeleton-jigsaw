@@ -17,7 +17,7 @@ Sprint 24
 * [-M] Fix gameover image for mobile.
 * [-M] Fix title screen image for mobile and desktop.
 * [P-] Make images to work good on mobile.
-* [P-] Fix mobile safari bug.
+* [--] Fix mobile safari bug.
 
 
 Sprint 23
