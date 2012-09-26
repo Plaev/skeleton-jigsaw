@@ -16,6 +16,8 @@ Sprint 24
 * [-M] Create a hotsite for the game.
 * [-M] Fix gameover image for mobile.
 * [-M] Fix title screen image for mobile and desktop.
+* [-M] Change dokuro image on plaev website.
+* [-M] Change colors for plaev website.
 * [P-] Make images to work good on mobile.
 * [--] Fix mobile safari bug.
 
