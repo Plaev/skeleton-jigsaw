@@ -22,7 +22,11 @@ publish: unify
 		sed -i 's/<!-- <script type="text\/javascript" src="game.min.js"><\/script> -->/<script type="text\/javascript" src="game.min.js"><\/script>/g' index.html;\
 	fi
 
-	scp -r index.html game.min.js media/ plaevgames@plaevteam.com:/home/plaevgames/plaevteam.com/skeleton-jigsaw/
+	cp -R index.html game.min.js media/ production/
+	cd production
+	git commit -am "Updating skeleton jigsaw version"
+	[[ -f config.ru ]]; echo "git push --force"
+	cd ..
 	git checkout index.html
 
 # Prepare impact to use on plaev games
