@@ -23,10 +23,7 @@ publish: unify
 	fi
 
 	cp -R index.html game.min.js media/ production/
-	cd production
-	git commit -am "Updating skeleton jigsaw version"
-	[[ -f config.ru ]]; echo "git push --force"
-	cd ..
+	cd production && git commit -am "Updating skeleton jigsaw version" && [[ ! -f config.ru ]]; git push --force
 	git checkout index.html
 
 # Prepare impact to use on plaev games
