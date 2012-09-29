@@ -41,3 +41,8 @@ unify:
 
 check:
 	find lib/game -name "*.js" -exec jshint {} \;
+
+update:
+	git add production
+	git commit -m "Updating skeleton jigsaw production version"
+	git push
