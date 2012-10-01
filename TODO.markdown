@@ -21,7 +21,7 @@ Sprint 24
 * [--] Make images to work good on mobile.
 * [--] Fix mobile safari bug.
 * [PM] Draw some extra parts on the ending level to look good on mobile.
-* [PM] Fix the "almost unreachable" platforms on level 4.
+* [--] Fix the "almost unreachable" platforms on level 4.
 
 
 Sprint 23
