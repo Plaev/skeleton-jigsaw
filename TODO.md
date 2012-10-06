@@ -14,7 +14,7 @@ Sprint 25
 ---------
 
 * [P-] Draw some extra parts on the ending level to look good on mobile.
-* [P-] Change the game URL to plaev.me/skel.
+* [--] Change the game URL to plaev.me/skel.
 * [P-] Fix mobile terrain for some levels.
 * [P-] Try to change the canvas zoom for mobile.
 * [-M] Create important doodadd layer.
