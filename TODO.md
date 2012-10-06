@@ -10,17 +10,26 @@ General Roadmap
 * [PM] Teleporters.
 
 
+Sprint 25
+---------
+
+* [P-] Draw some extra parts on the ending level to look good on mobile.
+* [P-] Change the game URL to plaev.me/skel.
+* [P-] Fix mobile terrain for some levels.
+* [P-] Try to change the canvas zoom for mobile.
+* [-M] Create important doodadd layer.
+* [-M] Create a hotsite for the game.
+
+
 Sprint 24
 ---------
 
-* [-M] Create a hotsite for the game.
-* [P-] Fix gameover image for mobile.
-* [P-] Fix title screen image for mobile and desktop.
+* [--] Fix gameover image for mobile.
+* [--] Fix title screen image for mobile and desktop.
 * [--] Change dokuro image on plaev website.
-* ~~[-M] Change colors for plaev website.~~
+* [--] Change colors for plaev website.
 * [--] Make images to work good on mobile.
 * [--] Fix mobile safari bug.
-* [P-] Draw some extra parts on the ending level to look good on mobile.
 * [--] Fix the "almost unreachable" platforms on level 4.
 
 
