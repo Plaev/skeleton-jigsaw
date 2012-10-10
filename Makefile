@@ -10,10 +10,10 @@ GCC_OPTION = --jscomp_off=internetExplorerChecks
 
 #--compilation_level ADVANCED_OPTIMIZATIONS
 
-publish: unify prepare copy prepare-repo update-git
+publish: unify prepare copy update-git
 	@echo " ----> Done!"
 
-prepare-repo:
+optimize-media:
 	@echo " ----> Preparing repository"
 	@if test -f /usr/bin/pngout; then \
 		for i in `ls media/*.png`; do pngout $$i 2>&1 > /dev/null; done \
@@ -21,8 +21,8 @@ prepare-repo:
 
 update-git:
 	@echo " ----> Updating git"
-	@git checkout index.html media
 	@cd production && git checkout gh-pages && git commit -am "Updating skeleton jigsaw version" && [[ ! -f config.ru ]]; git push --force && cd ..
+	@git checkout index.html media
 
 copy:
 	@echo " ----> Copying to production repository"
