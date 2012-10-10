@@ -15,10 +15,13 @@ publish: unify prepare copy prepare-repo update-git
 
 prepare-repo:
 	@echo " ----> Preparing repository"
+	@if test -f /usr/bin/pngout; then \
+		for i in `ls media/*.png`; do pngout $$i 2>&1 > /dev/null; done \
+	fi
 
 update-git:
 	@echo " ----> Updating git"
-	@git checkout index.html
+	@git checkout index.html media
 	@cd production && git checkout gh-pages && git commit -am "Updating skeleton jigsaw version" && [[ ! -f config.ru ]]; git push --force && cd ..
 
 copy:
