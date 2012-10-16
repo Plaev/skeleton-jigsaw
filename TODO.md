@@ -17,9 +17,9 @@ Sprint 25
 * [--] Change the game URL to plaev.me/skel.
 * [--] Fix mobile terrain for some levels.
 * [--] Remove background pre-render for mobile.
-* [P-] Try to change the canvas zoom for mobile.
+* [--] Try to change the canvas zoom for mobile.
 * [-M] Create important doodadd layer.
-* [-M] Create a hotsite for the game.
+* [--] Create a hotsite for the game.
 
 
 Sprint 24
