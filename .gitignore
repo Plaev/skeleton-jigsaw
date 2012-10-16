@@ -1,8 +1,1 @@
-lib/impact/*
-lib/weltmeister/*
-tools/*
-!tools/update.sh
-weltmeister.html
-game.min.js
-
-Gemfile*
+.sass-cache
