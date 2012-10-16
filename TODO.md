@@ -10,6 +10,14 @@ General Roadmap
 * [PM] Teleporters.
 
 
+Sprint 26
+---------
+
+* [-M] Create important doodadd layer.
+* [PM] Add content to hotsite.
+* [P-] Adjust all levels to fit better on mobile.
+
+
 Sprint 25
 ---------
 
@@ -18,7 +26,6 @@ Sprint 25
 * [--] Fix mobile terrain for some levels.
 * [--] Remove background pre-render for mobile.
 * [--] Try to change the canvas zoom for mobile.
-* [-M] Create important doodadd layer.
 * [--] Create a hotsite for the game.
 
 
