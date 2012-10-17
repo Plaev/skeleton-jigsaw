@@ -16,6 +16,7 @@ Sprint 26
 * [-M] Create important doodadd layer.
 * [PM] Add content to hotsite.
 * [P-] Adjust all levels to fit better on mobile.
+* [P-] Add a google analytics code to the page.
 
 
 Sprint 25
