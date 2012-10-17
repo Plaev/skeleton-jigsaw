@@ -26,7 +26,7 @@ update-git:
 
 copy:
 	@echo " ----> Copying to production repository"
-	@cp -R index.html game.min.js media/ production/
+	@cp -R index.html game.min.js analytics.js media/ production/
 
 # Prepare impact to use on plaev games
 impact:
