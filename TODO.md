@@ -15,8 +15,10 @@ Sprint 26
 
 * [-M] Create important doodadd layer.
 * [PM] Add content to hotsite.
-* [P-] Adjust all levels to fit better on mobile.
-* [P-] Add a google analytics code to the page.
+* [--] Adjust all levels to fit better on mobile.
+* [--] Add a google analytics code to the page.
+* [P-] Should not open the door when jumping.
+* [P-] Remove payse feature.
 
 
 Sprint 25
