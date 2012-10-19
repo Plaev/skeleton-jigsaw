@@ -18,7 +18,7 @@ Sprint 26
 * [--] Adjust all levels to fit better on mobile.
 * [--] Add a google analytics code to the page.
 * [P-] Should not open the door when jumping.
-* [P-] Remove payse feature.
+* [--] Remove payse feature.
 
 
 Sprint 25
