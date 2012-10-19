@@ -17,7 +17,7 @@ Sprint 26
 * [PM] Add content to hotsite.
 * [--] Adjust all levels to fit better on mobile.
 * [--] Add a google analytics code to the page.
-* [P-] Should not open the door when jumping.
+* [--] Should not open the door when jumping.
 * [--] Remove payse feature.
 
 
