@@ -21,7 +21,7 @@ optimize-media:
 
 update-git:
 	@echo " ----> Updating git"
-	@cd production && git checkout gh-pages && git commit -am "Updating skeleton jigsaw version" && [[ ! -f config.ru ]]; git push --force && cd ..
+	@cd production && git checkout gh-pages && git commit -am "Updating skeleton jigsaw version" && [[ ! -f config.ru ]]; git push && cd ..
 	@git checkout index.html media
 
 copy:
