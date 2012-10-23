@@ -3,7 +3,42 @@
 
 body
   background: url("../img/background.png") no-repeat center top #312022
+  color: #ffa
+  font-family: Helvetica, Arial, sans-serif
+  line-height: 1.5em
   text-align: center
+  @include text-shadow(0 1px 0 rgba(#000, .5))
+
+strong
+  font-weight: bold
+
+a
+  color: #ffa
 
 h1
   margin: 15% 0 3em 0
+
+.features,
+.story
+  margin: 50px auto
+  overflow: hidden
+  text-align: left
+  width: 1000px
+
+  h2
+    font-weight: bold
+    text-transform: uppercase
+
+  p
+    color: #ed9
+
+  .feature
+    float: left
+    margin-left: 25px
+    width: 315px
+
+    &:first-child
+      margin-left: 0
+
+    p
+      font-size: .9em
