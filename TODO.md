@@ -9,6 +9,8 @@ General Roadmap
 * [PM] Moving platforms.
 * [PM] Teleporters.
 
+* Make it work with firefox OS (UserAgent: mozila/5.0(mobile;rv:18.0)Gecko/18.0 Firefox/18.0)
+
 
 Sprint 26
 ---------
