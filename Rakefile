@@ -25,6 +25,21 @@ task :setup do
   expanded_impact_lib = File.expand_path(impact_lib)
   say_green "Copying lib from #{expanded_impact_lib} to #{local_impact_path}"
   `cp -R #{expanded_impact_lib}/ #{local_impact_path}`
+
+
+  weltmeister_lib = "#{impact_path}/lib/weltmeister"
+  local_weltmeister_path = './lib/weltmeister'
+  expanded_weltmeister_lib = File.expand_path(weltmeister_lib)
+  say_green "Copying weltmeister from #{expanded_weltmeister_lib} to " +
+    "#{local_weltmeister_path}"
+  `cp -R #{expanded_weltmeister_lib}/ #{local_weltmeister_path}`
+  # Remove the php references
+  say_green "Removing PHP references from #{local_weltmeister_path}/config.js"
+  `sed -i.bak 's/\.php//g' #{local_weltmeister_path}/config.js`
+
+  weltmeister_html = "#{impact_path}/weltmeister.html"
+  say_green "Copying weltmeister.html from #{weltmeister_html} to ."
+  `cp #{weltmeister_html} .`
 end
 
 
