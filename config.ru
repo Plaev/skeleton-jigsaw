@@ -11,7 +11,7 @@ Sinatra::Base.set(:run, false)
 Sinatra::Base.set(:env, :production)
 
 class Impact < Sinatra::Base
-  set :public, File.dirname(__FILE__) + '/'
+  set :public_dir, File.dirname(__FILE__) + '/'
 
   # This is where you could serve different pages depending on the device accessing the page,
   # such as for iPads and mobile devices.
